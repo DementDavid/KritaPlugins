@@ -1,5 +1,6 @@
 # KritaPlugins
 Plugins to spark illustration
+In this repository, you will find useful Plugins for enhancing the features provided by the open-source application Krita
 # Krita Plugin – Starter Template & File Format Guide
 
 ![Header banner](./docs/header-banner.png)
@@ -250,6 +251,6 @@ PRs welcome! Please:
 
 ---
 
-## License
 
-MIT © Your Name
+
+MIT © David Lin Wang
